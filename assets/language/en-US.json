@@ -1,5 +1,30 @@
 {
-    "homepage": {
-        "welcome_txt":"Welcome"
-    }
+  "homepage": {
+    "welcome_txt": "Welcome",
+    "back_txt": "Back",
+    "close_txt": "Close",
+    "confirm_delete_txt": "Are you sure you want to delete all images?",
+    "yes_txt": "Yes",
+    "no_txt": "No",
+    "delete_txt": "Delete",
+    "download_txt": "Download",
+    "done_txt": "Done",
+    "history_page_title": "History"
+  },
+  "error": {
+    "image_cant_download": "Image can't be downloaded",
+    "error_txt": "Error"
+  },
+  "filter_btn_widget": {
+    "filter_btn_txt": "Apply Filter"
+  },
+  "settings_page": {
+    "settings_page_title": "Settings",
+    "settings_page_darkmode": "Dark Mode",
+    "settings_page_language": "Language",
+    "settings_page_delete_data": "Delete Data",
+    "settings_page_darkmode_subtitle": "Enable dark mode for better visibility in low light",
+    "settings_page_language_subtitle": "Select your preferred language",
+    "settings_page_delete_data_subtitle": "Delete all app data including images and settings"
+  }
 }

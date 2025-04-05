@@ -1,4 +1,4 @@
-package com.example.retcam
+package com.retcam
 
 import io.flutter.embedding.android.FlutterActivity
 

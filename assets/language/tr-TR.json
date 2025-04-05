@@ -1,5 +1,30 @@
 {
-    "homepage": {
-        "welcome_txt":"Hoşgeldin"
-    }
+  "homepage": {
+    "welcome_txt": "Hoşgeldin",
+    "back_txt": "Geri",
+    "close_txt": "Kapat",
+    "confirm_delete_txt": "Tüm resimleri silmek istediğinize emin misiniz?",
+    "yes_txt": "Evet",
+    "no_txt": "Hayır",
+    "delete_txt": "Sil",
+    "download_txt": "İndir",
+    "done_txt": "Tamamlandı",
+    "history_page_title": "Geçmiş"
+  },
+  "error": {
+    "image_cant_download": "Resim indirilemedi",
+    "error_txt": "Hata"
+  },
+  "filter_btn_widget": {
+    "filter_btn_txt": "Filtre Uygula"
+  },
+  "settings_page": {
+    "settings_page_title": "Ayarlar",
+    "settings_page_darkmode": "Karanlık Mod",
+    "settings_page_language": "Dil",
+    "settings_page_delete_data": "Verileri Sil",
+    "settings_page_darkmode_subtitle": "Düşük ışıkta daha iyi görünürlük için karanlık modu etkinleştir",
+    "settings_page_language_subtitle": "Tercih ettiğiniz dili seçin",
+    "settings_page_delete_data_subtitle": "Tüm uygulama verilerini, resimleri ve ayarları sil"
+  }
 }
